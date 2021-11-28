@@ -1,0 +1,5 @@
+1. extract file ke xampp\htdocs dan pastikan komputer terinstal composer dan xampp
+2. import database "bby_cb.sql" pada database mysql
+3. jalankan server "php artisan serve" pada cmd dengan direktori program cth: "..\htdocs\program"
+4. kemudian jalankan browser dan ketik "localhost:8000", untuk admin "localhost:8000\admin" 
+dengan username: petugas1 dan password:111
